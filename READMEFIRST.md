@@ -10,4 +10,5 @@
 
 * "Dots and Boxes (Application Mac)" est un fichier zip. Si vous êtes sur mac et disposé d'une version Java adaptée, vous serez en mesure de lancer l'application Dots and Boxes basée sur le programme du dossier src.
 
+Jean-Baptiste Maigrot,
 Arnaud Ribeyrolles.
